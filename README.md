@@ -4,7 +4,7 @@
 
 # Predictive Analysis of the Consumer Price Index in Malaysia Using ARIMA and LSTM Models
 
-**Skills:**
+**Skills:** Python (Programming Language), Time Series Forecasting, Deep Learning
 
 ---
 **Situation:** </br>
